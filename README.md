@@ -1,4 +1,4 @@
-Artist portfolio site
+Freelance - Artist portfolio site
 
 Art by Jude
 
